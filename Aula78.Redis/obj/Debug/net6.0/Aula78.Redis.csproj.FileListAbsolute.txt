@@ -1,0 +1,12 @@
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\bin\Debug\net6.0\Aula78.Redis.deps.json
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\bin\Debug\net6.0\Aula78.Redis.dll
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\bin\Debug\net6.0\Aula78.Redis.pdb
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\Aula78.Redis.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\Aula78.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\Aula78.Redis.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\Aula78.Redis.AssemblyInfo.cs
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\Aula78.Redis.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\Aula78.Redis.dll
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\refint\Aula78.Redis.dll
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\Aula78.Redis.pdb
+C:\Users\Renan\source\repos\Aula78.Redis\Aula78.Redis\obj\Debug\net6.0\ref\Aula78.Redis.dll
